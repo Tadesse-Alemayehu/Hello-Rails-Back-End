@@ -1,51 +1,42 @@
-# Hello-Rails-React
+# Hello Rails Back Ens
 
-> Rails app using react
+> This is a rails back end to be user as an API server
+
+## [See front-end here](https://github.com/Tadesse-Alemayehu/Hello-react-front-end)
 
 ## Built With
 
 - ROR
 - Postgresql
-- React
-- Redux
 
 ## Getting Started
 
-1. Open [dev branch](https://github.com/Tadesse-Alemayehu/Hello_Rails_React)
+1. Open [dev branch](https://github.com/Tadesse-Alemayehu/Hello-Rails-Back-End)
 2. Open VSCode or terminal and navigate to the folder where you would like to clone the project.
 3. Type "pwd" to see your working directory.
 4. [clone repository]
-5. Install gems.
+5. Install gems by running
 
-   ```ruby
+   ```rails
    bundle install
    ```
 
-6. Install Node package
-   ```node
-   npm install
-   ```
-7. build react
-   ```node
-   npm run build
-   ```
-8. Start the server by running
+   Start the server on port 4000 by running
 
    ```bash
-   rails s
+   rails s -p 400
    ```
 
-9. Enjoy 😎
+6. Enjoy 😎
 
 ### Prerequisites
 
-> You must have Ruby installed on your computer.
-> You must have node installed on your computer.
-> You must have rails installed on your computer.
+You must have Ruby installed on your computer.
+You must have rails installed on your computer.
 
 ### Clone this repo
 
-`git clone git@github.com:marilirulita/Hello_Rails_React`
+`git clone git@github.com:marilirulita/Hello-Rails-Back-End`
 
 ## Authors
 
