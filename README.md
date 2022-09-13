@@ -13,6 +13,7 @@
 
 1. Open [dev branch](https://github.com/Tadesse-Alemayehu/Hello-Rails-Back-End)
 2. Open VSCode or terminal and navigate to the folder where you would like to clone the project.
+B
 3. Type "pwd" to see your working directory.
 4. [clone repository]
 5. Install gems by running
@@ -24,7 +25,7 @@
    Start the server on port 4000 by running
 
    ```bash
-   rails s -p 400
+   rails s -p 4000
    ```
 
 6. Enjoy 😎
